@@ -1,0 +1,8 @@
+{
+  "name": "osto/php-vuln-test",
+  "description": "PHP2Shell detection test",
+  "require": {
+    "php": "^8.0",
+    "monolog/monolog": "2.9.1"
+  }
+}
